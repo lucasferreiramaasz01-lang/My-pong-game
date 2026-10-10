@@ -1,0 +1,7 @@
+SCREEN_WIDHT = 800
+SCREEN_HEIGHT = 600
+
+BACKGROUND_COLOR = (30,30,30)  # Black background
+
+FPS = 30
+TITLE = "Pong Game"
